@@ -1,0 +1,47 @@
+[
+  {
+    "link" : "https://vukilis.github.io/AC-Origins/",
+    "image" : {
+      "src" : "project1.png",
+      "alt" : "AC-Origins"
+    },
+    "title" : "AC Origins",
+    "description": "HTML | CSS"
+  },
+  {
+    "link" : "https://vukilis.github.io/SteamTrading/",
+    "image" : {
+      "src" : "project2.png",
+      "alt" : "SteamTrading"
+    },
+    "title" : "SteamTrading",
+    "description": "JS"
+  },
+  {
+    "link" : "https://vukilis.github.io/Destiny2/",
+    "image" : {
+      "src" : "project3.png",
+      "alt" : "Destiny 2"
+    },
+    "title" : "Destiny 2",
+    "description": "JS"
+  },
+  {
+    "link" : "https://vukilis.github.io/MetroExodus/",
+    "image" : {
+      "src" : "project4.png",
+      "alt" : "Metro Exodus"
+    },
+    "title" : "Metro Exodus",
+    "description": "JS | Ajax"
+  },
+  {
+    "link" : "https://vukilis.github.io/PlanetInvaders/index.html",
+    "image" : {
+      "src" : "project5.png",
+      "alt" : "Planet Invaders"
+    },
+    "title" : "Planet Invaders",
+    "description": "Unity"
+  }
+]
